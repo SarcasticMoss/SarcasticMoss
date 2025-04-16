@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SarcasticMoss
-- 👀 I’m interested in cyber security.
+- 👀 I’m interested in cyber security, threat intelligence and pen-testing.
 - 🌱 I’m currently learning python!
 - 📫 How to reach me @madmosscyber on twitter
 - 😄 Pronouns: She/Her
